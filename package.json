@@ -9,10 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-oauth/google": "^0.2.6",
     "next": "12.2.3",
     "next-swc-win32-x64-msvc": "^0.0.1-security",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-google-login": "^5.2.2",
+    "react-icons": "^4.4.0"
   },
   "devDependencies": {
     "@types/node": "18.6.2",
